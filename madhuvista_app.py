@@ -3,6 +3,9 @@
 #pip install sklearn
 
 
+# to run this, youd j need to download this, import ur pima dataset.csv in the same folder, run the cmd: streamlit run madhuvista_app.py in ur terminal
+# this code is for rf alg.
+
 # IMPORT STATEMENTS
 import streamlit as st
 import pandas as pd
