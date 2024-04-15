@@ -1,0 +1,7 @@
+age,gender ,weight,sleeping-patterns,exercise-habits ,blood-pressure,analog-fasting,analog-pp,glucose-fasting,glucose-pp,diabetic,
+22,F,60,regular,active,115/75,310,315,93,110,no,simrans sister
+21,F,51,regular,mid,110/70,313,319,108,105,no,simran 
+21,F,53,regular,inactive,120/80,309,317,130,120,no,karina
+21,F,65,regular,inactive,125/80,311,312,115,115,no,roshni
+20,F,70,irregular,inactive,130/85,314,317,106,110,no,sanjana
+30,M,89,irregular,inactive,140/90,328,333,128,150,yes,the path guy
